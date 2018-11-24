@@ -3,4 +3,12 @@ numpy
 pyyaml
 setuptools
 six
+D
+
+
+Czhopdasvklnvkawlbzxbnkwn
+qd
+
+
+C
 typing
